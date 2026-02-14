@@ -27,6 +27,8 @@ Full Stack Developer experienced in building real-world applications using moder
 - 💡 Strong focus on clean code & reusable components  
 - 🎯 Goal: Become a high-performance software engineer  
 - 📫 Reach me at: **vishwanathsubbu@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/vishwanath-s27/
+
 
 ---
 
