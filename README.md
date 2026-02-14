@@ -1,5 +1,6 @@
-![MasterHead]([https://your-image-link.com/banner.png](https://raw.githubusercontent.com/vishwa010305/vishwa010305/main/banner.png))
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishwa010305/vishwa_17/main/574f94cabc04f22d8a35a70de4956994.jpg" width="100%" style="border-radius:20px; box-shadow:0px 0px 20px #00f7ff;" />
+</p>
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
 <img align="right" alt="Coding" width="400" 
 src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
