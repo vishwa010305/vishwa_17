@@ -59,4 +59,6 @@ Full Stack Developer experienced in building real-world applications using moder
 </p> -->
 
 
-<img src="https://raw.githubusercontent.com/vishwa010305/vishwa010305/output/snake.svg" width = 1500 alt="Snake animation" />
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/vishwa010305/vishwa010305/blob/output/snake-dark.svg)
