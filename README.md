@@ -1,7 +1,8 @@
 ![MasterHead]([https://your-image-link.com/banner.png](https://raw.githubusercontent.com/vishwa010305/vishwa010305/main/banner.png))
 
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="400" 
+src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <h3 align="center">
 🚀 Full Stack Developer | React • Spring Boot • MySQL <br>
 Building scalable web applications with clean architecture & modern UI.
@@ -61,8 +62,7 @@ Full Stack Developer experienced in building real-world applications using moder
 </p> -->
 
 
-## 🐍 Contribution Snake
+## 🐍 My Github Snake Contribution 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishwa010305/vishwa_17/output/snake-dark.svg" width="100%" alt="Snake animation"/>
-</p>
+<img src="https://raw.githubusercontent.com/vishwa010305/vishwa_17/output/snake.svg" width="100%">
+
